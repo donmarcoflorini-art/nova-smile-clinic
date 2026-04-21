@@ -538,9 +538,6 @@ img {
 @media (max-width: 760px) {
   .navbar {
     flex-wrap: wrap;
-    .hero-image {
-  height: 340px;
-}
   }
 
   .nav-links {
@@ -576,6 +573,10 @@ img {
 
   .result-visual {
     min-height: 180px;
+  }
+
+  .hero-image {
+    height: 340px;
   }
 
   .section {
